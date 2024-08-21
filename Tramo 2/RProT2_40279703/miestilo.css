@@ -1,0 +1,93 @@
+body{
+    background-color: #6d0000c2;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.centradonegritaycursivo {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.centradoetc2 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.centrado3 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+header {
+    background-color: #ffffff;
+    color: #000000c7;
+    text-align: center;
+    padding: 20px;
+    }
+    section {
+    padding: 20px; /* espaciado para la sección de 20 pixeles */}
+    footer {
+    background-color: #db977cad; /* Color de fondo del footer */
+    color: #000000c7;
+    padding: 20px 0; }
+    .footer-content {
+    max-width: 800px; /* Ancho máximo del contenido del footer */
+    margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+    text-align: center; }
+
+    .logo img{
+        height: 100%;
+        width: 70%;
+    }
+
+    nav:hover {
+        cursor:pointer;
+        }
+        nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        }
+        nav ul li {
+        display: inline-block;
+        margin-right: 30px;
+        }
+        nav ul li a {
+        color: #db977cad;
+        text-decoration: none;
+        padding: 8px 18px;
+        border-radius: 5px;
+        }
+        nav ul li a:hover {
+        background-color: #835a1cc2;
+        }
+
+    .buscador-nav button{
+    background-color: #835a1cc2;    
+    }
+            
+.footer-content {
+    text-align: center;
+    padding: 8px 16px;
+    border-radius:0cqmax
+} 
+
+.modelo {
+        display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
+        margin: 0 auto; /* Centrar las imágenes horizontalmente */
+        max-width: 100%; /* Asegurar que las imágenes no excedan el ancho del contenedor */
+        border: 3px solid #50381c7c; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
+        border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
+        }
+
+.contenedor-ingresar button{
+        background-color: #835a1cc2;
+        border-color: #835a1cc2;
+        }
